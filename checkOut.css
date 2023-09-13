@@ -409,3 +409,10 @@ footer ul {
     padding: 100px 50px;
     text-align: center;
 }
+.detail i {
+    cursor: pointer;
+}
+.detail i:hover{
+    transform: scale(1.5);
+    transition-duration: 0.3s;
+}
